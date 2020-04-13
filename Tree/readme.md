@@ -1,1 +1,3 @@
 # Fractal trees
+
+![](animation.gif)

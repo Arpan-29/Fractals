@@ -1,2 +1,2 @@
 # Fractals
-Space filling curves 
+Amazing space filling curves 

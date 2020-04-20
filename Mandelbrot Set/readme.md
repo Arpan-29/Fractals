@@ -1,1 +1,3 @@
 # Mandelbrot Set
+
+![](image.png)
